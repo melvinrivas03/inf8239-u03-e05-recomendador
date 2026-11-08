@@ -1,0 +1,11 @@
+movieId,title,genres,mean,count,weighted_score
+318,"Shawshank Redemption, The (1994)",Crime|Drama,4.429,317,4.3562
+858,"Godfather, The (1972)",Crime|Drama,4.2891,192,4.192
+2959,Fight Club (1999),Action|Crime|Drama|Thriller,4.2729,218,4.1879
+260,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi,4.2311,251,4.1602
+50,"Usual Suspects, The (1995)",Crime|Mystery|Thriller,4.2377,204,4.1517
+527,Schindler's List (1993),Drama|War,4.225,220,4.1459
+296,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,4.1971,307,4.1408
+1196,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi,4.2156,211,4.1346
+2571,"Matrix, The (1999)",Action|Sci-Fi|Thriller,4.1924,278,4.1313
+1221,"Godfather: Part II, The (1974)",Crime|Drama,4.2597,129,4.1285

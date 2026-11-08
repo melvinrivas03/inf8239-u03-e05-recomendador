@@ -1,0 +1,4 @@
+grupo,usuarios,min_hist,max_hist,HitRate@10
+pequeño (tercil 1),209,19,44,0.03349
+medio (tercil 2),198,45,126,0.05051
+amplio (tercil 3),203,127,2697,0.00493

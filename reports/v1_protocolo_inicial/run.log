@@ -1,0 +1,33 @@
+[1/6] LAB08: auditoría, popularidad y contenido
+[2/6] Corte temporal leave-last-out
+[3/6] Selección en validación (3 semillas)
+  MF f= 10 ep= 12 seed=42    RMSE_val=0.8963  8.7s
+  MF f= 10 ep= 12 seed=7     RMSE_val=0.8933  9.0s
+  MF f= 10 ep= 12 seed=2025  RMSE_val=0.8889  9.1s
+  MF f= 10 ep= 25 seed=42    RMSE_val=0.8951  18.0s
+  MF f= 10 ep= 25 seed=7     RMSE_val=0.8905  18.7s
+  MF f= 10 ep= 25 seed=2025  RMSE_val=0.8786  16.9s
+  MF f= 20 ep= 12 seed=42    RMSE_val=0.8917  8.8s
+  MF f= 20 ep= 12 seed=7     RMSE_val=0.8934  8.5s
+  MF f= 20 ep= 12 seed=2025  RMSE_val=0.8928  8.1s
+  MF f= 20 ep= 25 seed=42    RMSE_val=0.8825  18.3s
+  MF f= 20 ep= 25 seed=7     RMSE_val=0.8910  18.2s
+  MF f= 20 ep= 25 seed=2025  RMSE_val=0.8862  18.0s
+  MF f= 50 ep= 12 seed=42    RMSE_val=0.8957  8.8s
+  MF f= 50 ep= 12 seed=7     RMSE_val=0.8868  9.8s
+  MF f= 50 ep= 12 seed=2025  RMSE_val=0.8878  9.5s
+  MF f= 50 ep= 25 seed=42    RMSE_val=0.8847  19.1s
+  MF f= 50 ep= 25 seed=7     RMSE_val=0.8827  19.7s
+  MF f= 50 ep= 25 seed=2025  RMSE_val=0.8827  19.5s
+      elegida: modelo=Híbrido factores=50 épocas=25 alpha=0.9
+      fallback de popularidad: Popularidad suavizada
+[4/6] Evaluación única en prueba
+  prueba seed=42 listo
+  prueba seed=7 listo
+  prueba seed=2025 listo
+[5/6] Usuarios fríos
+  frío seed=42: 61 usuarios fríos
+  frío seed=7: 61 usuarios fríos
+  frío seed=2025: 61 usuarios fríos
+[6/6] Perfiles, figuras y resumen
+Listo en 493.2 s → /home/claude/e05/reports

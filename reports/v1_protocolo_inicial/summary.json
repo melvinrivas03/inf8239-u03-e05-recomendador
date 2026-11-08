@@ -1,0 +1,31 @@
+{
+  "decision": {
+    "modelo": "Híbrido",
+    "factores": 50,
+    "epocas": 25,
+    "alpha": 0.9,
+    "val_HitRate@10": 0.018579234972677595,
+    "mejor_val_HitRate": 0.04262295081967213,
+    "1EE": 0.008178964911372879,
+    "regla": "Pareto (HitRate@10 vs segundos y parámetros) + 1 EE binomial; elegir la más barata",
+    "fallback_popularidad": "Popularidad suavizada"
+  },
+  "split": {
+    "sin_fuga_temporal_por_usuario": true,
+    "pct_items_prueba_no_vistos_en_train": 0.03770491803278689
+  },
+  "seeds": [
+    42,
+    7,
+    2025
+  ],
+  "k": 10,
+  "quick": false,
+  "pop_m": 27.0,
+  "entorno": {
+    "python": "3.12.3",
+    "numpy": "2.5.4",
+    "pandas": "3.1.1"
+  },
+  "segundos_totales": 493.2
+}

@@ -1,0 +1,31 @@
+query_movieId,query_title,rank,movieId,title,genres,similarity
+1,Toy Story (1995),1,4886,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy,1.0
+1,Toy Story (1995),2,3114,Toy Story 2 (1999),Adventure|Animation|Children|Comedy|Fantasy,1.0
+1,Toy Story (1995),3,2294,Antz (1998),Adventure|Animation|Children|Comedy|Fantasy,1.0
+1,Toy Story (1995),4,4016,"Emperor's New Groove, The (2000)",Adventure|Animation|Children|Comedy|Fantasy,1.0
+1,Toy Story (1995),5,53121,Shrek the Third (2007),Adventure|Animation|Children|Comedy|Fantasy,1.0
+1,Toy Story (1995),6,166461,Moana (2016),Adventure|Animation|Children|Comedy|Fantasy,1.0
+1,Toy Story (1995),7,3754,"Adventures of Rocky and Bullwinkle, The (2000)",Adventure|Animation|Children|Comedy|Fantasy,1.0
+1,Toy Story (1995),8,136016,The Good Dinosaur (2015),Adventure|Animation|Children|Comedy|Fantasy,1.0
+1,Toy Story (1995),9,45074,"Wild, The (2006)",Adventure|Animation|Children|Comedy|Fantasy,1.0
+1,Toy Story (1995),10,65577,"Tale of Despereaux, The (2008)",Adventure|Animation|Children|Comedy|Fantasy,1.0
+593,"Silence of the Lambs, The (1991)",1,48877,Saw III (2006),Crime|Horror|Thriller,1.0
+593,"Silence of the Lambs, The (1991)",2,2389,Psycho (1998),Crime|Horror|Thriller,1.0
+593,"Silence of the Lambs, The (1991)",3,2159,Henry: Portrait of a Serial Killer (1986),Crime|Horror|Thriller,1.0
+593,"Silence of the Lambs, The (1991)",4,55577,Saw IV (2007),Crime|Horror|Thriller,1.0
+593,"Silence of the Lambs, The (1991)",5,40723,Wolf Creek (2005),Crime|Horror|Thriller,1.0
+593,"Silence of the Lambs, The (1991)",6,53435,Hostel: Part II (2007),Crime|Horror|Thriller,1.0
+593,"Silence of the Lambs, The (1991)",7,103075,"Purge, The (2013)",Crime|Horror|Thriller,1.0
+593,"Silence of the Lambs, The (1991)",8,5556,FearDotCom (a.k.a. Fear.com) (a.k.a. Fear Dot Com) (2002),Crime|Horror|Thriller,1.0
+593,"Silence of the Lambs, The (1991)",9,63436,Saw V (2008),Crime|Horror|Thriller,1.0
+593,"Silence of the Lambs, The (1991)",10,5569,"Last House on the Left, The (1972)",Crime|Horror|Thriller,1.0
+8533,"Notebook, The (2004)",1,2858,American Beauty (1999),Drama|Romance,1.0
+8533,"Notebook, The (2004)",2,1704,Good Will Hunting (1997),Drama|Romance,1.0
+8533,"Notebook, The (2004)",3,1721,Titanic (1997),Drama|Romance,1.0
+8533,"Notebook, The (2004)",4,4995,"Beautiful Mind, A (2001)",Drama|Romance,1.0
+8533,"Notebook, The (2004)",5,912,Casablanca (1942),Drama|Romance,1.0
+8533,"Notebook, The (2004)",6,1393,Jerry Maguire (1996),Drama|Romance,1.0
+8533,"Notebook, The (2004)",7,25,Leaving Las Vegas (1995),Drama|Romance,1.0
+8533,"Notebook, The (2004)",8,17,Sense and Sensibility (1995),Drama|Romance,1.0
+8533,"Notebook, The (2004)",9,509,"Piano, The (1993)",Drama|Romance,1.0
+8533,"Notebook, The (2004)",10,4014,Chocolat (2000),Drama|Romance,1.0

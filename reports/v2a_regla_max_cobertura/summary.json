@@ -1,0 +1,35 @@
+{
+  "protocolo": "v2 (gamma + regla Pareto/1EE/cobertura; ver reports/v1_protocolo_inicial)",
+  "decision": {
+    "modelo": "Híbrido",
+    "factores": 50,
+    "epocas": 25,
+    "alpha": 0.75,
+    "gamma": 0.25,
+    "beta_frio": 0.5,
+    "alpha_hibrido_lab09": 0.75,
+    "val_HitRate@10": 0.04426229508196721,
+    "mejor_val_HitRate": 0.05081967213114754,
+    "1EE": 0.008892530762942885,
+    "regla": "Pareto (HR@10 y cobertura vs segundos y parámetros) + 1 EE binomial; mayor cobertura",
+    "popularidad_en_hibrido_y_fallback": "Popularidad (conteo)"
+  },
+  "split": {
+    "sin_fuga_temporal_por_usuario": true,
+    "pct_items_prueba_no_vistos_en_train": 0.03770491803278689
+  },
+  "seeds": [
+    42,
+    7,
+    2025
+  ],
+  "k": 10,
+  "quick": false,
+  "pop_m": 27.0,
+  "entorno": {
+    "python": "3.12.3",
+    "numpy": "2.5.4",
+    "pandas": "3.1.1"
+  },
+  "segundos_totales": 666.2
+}

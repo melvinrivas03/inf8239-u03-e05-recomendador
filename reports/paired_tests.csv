@@ -1,0 +1,10 @@
+A,B,seed,dif_HitRate,IC95_inf,IC95_sup,aciertos_solo_A,aciertos_solo_B,p_McNemar,usuarios
+Híbrido FINAL,Popularidad (conteo),42,-0.0082,-0.02623,0.00984,12,17,0.45826,610
+Híbrido FINAL,MF sola,42,0.02131,0.00656,0.03607,17,4,0.0072,610
+Híbrido FINAL,Híbrido LAB09 α=0.25 γ=0,42,0.02459,0.01148,0.0377,16,1,0.00027,610
+Híbrido FINAL,Popularidad (conteo),7,-0.01311,-0.03115,0.00328,10,18,0.18493,610
+Híbrido FINAL,MF sola,7,0.01803,0.00492,0.03115,14,3,0.01273,610
+Híbrido FINAL,Híbrido LAB09 α=0.25 γ=0,7,0.02131,0.00984,0.03443,14,1,0.00098,610
+Híbrido FINAL,Popularidad (conteo),2025,-0.01311,-0.03115,0.00328,10,18,0.18493,610
+Híbrido FINAL,MF sola,2025,0.02131,0.0082,0.03443,15,2,0.00235,610
+Híbrido FINAL,Híbrido LAB09 α=0.25 γ=0,2025,0.01967,0.0082,0.03115,13,1,0.00183,610

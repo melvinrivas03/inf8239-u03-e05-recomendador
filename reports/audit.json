@@ -1,0 +1,16 @@
+{
+  "usuarios": 610,
+  "peliculas_catalogo": 9742,
+  "peliculas_valoradas": 9724,
+  "valoraciones": 100836,
+  "densidad": 0.016999683055613623,
+  "rating_medio": 3.501556983616962,
+  "min_valoraciones_por_usuario": 20,
+  "mediana_valoraciones_por_usuario": 70.5,
+  "peliculas_con_1_valoracion": 3446,
+  "pct_valoraciones_top10pct_items": 0.6002221428854774,
+  "fecha_min": "1996-03-29",
+  "fecha_max": "2018-09-24",
+  "peliculas_sin_genero": 34,
+  "claves_foraneas_ok": true
+}

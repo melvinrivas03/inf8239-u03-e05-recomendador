@@ -1,0 +1,51 @@
+perfil,userId,n_historial,alpha,gamma,fuente,personalizada,rank,movieId,title,genres,visto_antes
+Historial amplio,414,2697,0.5,0.25,híbrido,True,1,1203,12 Angry Men (1957),Drama,False
+Historial amplio,414,2697,0.5,0.25,híbrido,True,2,3451,Guess Who's Coming to Dinner (1967),Drama,False
+Historial amplio,414,2697,0.5,0.25,híbrido,True,3,1237,"Seventh Seal, The (Sjunde inseglet, Det) (1957)",Drama,False
+Historial amplio,414,2697,0.5,0.25,híbrido,True,4,3468,"Hustler, The (1961)",Drama,False
+Historial amplio,414,2697,0.5,0.25,híbrido,True,5,1041,Secrets & Lies (1996),Drama,False
+Historial amplio,414,2697,0.5,0.25,híbrido,True,6,2360,"Celebration, The (Festen) (1998)",Drama,False
+Historial amplio,414,2697,0.5,0.25,híbrido,True,7,3083,All About My Mother (Todo sobre mi madre) (1999),Drama,False
+Historial amplio,414,2697,0.5,0.25,híbrido,True,8,926,All About Eve (1950),Drama,False
+Historial amplio,414,2697,0.5,0.25,híbrido,True,9,306,Three Colors: Red (Trois couleurs: Rouge) (1994),Drama,False
+Historial amplio,414,2697,0.5,0.25,híbrido,True,10,954,Mr. Smith Goes to Washington (1939),Drama,False
+Historial amplio,414,2697,0.25,0.0,híbrido,True,1,3451,Guess Who's Coming to Dinner (1967),Drama,False
+Historial amplio,414,2697,0.25,0.0,híbrido,True,2,1203,12 Angry Men (1957),Drama,False
+Historial amplio,414,2697,0.25,0.0,híbrido,True,3,1237,"Seventh Seal, The (Sjunde inseglet, Det) (1957)",Drama,False
+Historial amplio,414,2697,0.25,0.0,híbrido,True,4,3468,"Hustler, The (1961)",Drama,False
+Historial amplio,414,2697,0.25,0.0,híbrido,True,5,1041,Secrets & Lies (1996),Drama,False
+Historial amplio,414,2697,0.25,0.0,híbrido,True,6,2360,"Celebration, The (Festen) (1998)",Drama,False
+Historial amplio,414,2697,0.25,0.0,híbrido,True,7,158966,Captain Fantastic (2016),Drama,False
+Historial amplio,414,2697,0.25,0.0,híbrido,True,8,3201,Five Easy Pieces (1970),Drama,False
+Historial amplio,414,2697,0.25,0.0,híbrido,True,9,3083,All About My Mother (Todo sobre mi madre) (1999),Drama,False
+Historial amplio,414,2697,0.25,0.0,híbrido,True,10,306,Three Colors: Red (Trois couleurs: Rouge) (1994),Drama,False
+Historial amplio,414,2697,0.75,0.0,híbrido,True,1,3451,Guess Who's Coming to Dinner (1967),Drama,False
+Historial amplio,414,2697,0.75,0.0,híbrido,True,2,1203,12 Angry Men (1957),Drama,False
+Historial amplio,414,2697,0.75,0.0,híbrido,True,3,1237,"Seventh Seal, The (Sjunde inseglet, Det) (1957)",Drama,False
+Historial amplio,414,2697,0.75,0.0,híbrido,True,4,3468,"Hustler, The (1961)",Drama,False
+Historial amplio,414,2697,0.75,0.0,híbrido,True,5,1041,Secrets & Lies (1996),Drama,False
+Historial amplio,414,2697,0.75,0.0,híbrido,True,6,2360,"Celebration, The (Festen) (1998)",Drama,False
+Historial amplio,414,2697,0.75,0.0,híbrido,True,7,158966,Captain Fantastic (2016),Drama,False
+Historial amplio,414,2697,0.75,0.0,híbrido,True,8,3201,Five Easy Pieces (1970),Drama,False
+Historial amplio,414,2697,0.75,0.0,híbrido,True,9,3083,All About My Mother (Todo sobre mi madre) (1999),Drama,False
+Historial amplio,414,2697,0.75,0.0,híbrido,True,10,306,Three Colors: Red (Trois couleurs: Rouge) (1994),Drama,False
+Historial pequeño,53,19,0.5,0.25,híbrido,True,1,296,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,False
+Historial pequeño,53,19,0.5,0.25,híbrido,True,2,356,Forrest Gump (1994),Comedy|Drama|Romance|War,False
+Historial pequeño,53,19,0.5,0.25,híbrido,True,3,318,"Shawshank Redemption, The (1994)",Crime|Drama,False
+Historial pequeño,53,19,0.5,0.25,híbrido,True,4,2959,Fight Club (1999),Action|Crime|Drama|Thriller,False
+Historial pequeño,53,19,0.5,0.25,híbrido,True,5,2858,American Beauty (1999),Drama|Romance,False
+Historial pequeño,53,19,0.5,0.25,híbrido,True,6,6711,Lost in Translation (2003),Comedy|Drama|Romance,False
+Historial pequeño,53,19,0.5,0.25,híbrido,True,7,608,Fargo (1996),Comedy|Crime|Drama|Thriller,False
+Historial pequeño,53,19,0.5,0.25,híbrido,True,8,898,"Philadelphia Story, The (1940)",Comedy|Drama|Romance,False
+Historial pequeño,53,19,0.5,0.25,híbrido,True,9,1247,"Graduate, The (1967)",Comedy|Drama|Romance,False
+Historial pequeño,53,19,0.5,0.25,híbrido,True,10,2571,"Matrix, The (1999)",Action|Sci-Fi|Thriller,False
+Usuario nuevo,nuevo,0,0.5,0.25,popularidad (NO personalizada),False,1,356,Forrest Gump (1994),Comedy|Drama|Romance|War,False
+Usuario nuevo,nuevo,0,0.5,0.25,popularidad (NO personalizada),False,2,318,"Shawshank Redemption, The (1994)",Crime|Drama,False
+Usuario nuevo,nuevo,0,0.5,0.25,popularidad (NO personalizada),False,3,296,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,False
+Usuario nuevo,nuevo,0,0.5,0.25,popularidad (NO personalizada),False,4,2571,"Matrix, The (1999)",Action|Sci-Fi|Thriller,False
+Usuario nuevo,nuevo,0,0.5,0.25,popularidad (NO personalizada),False,5,593,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller,False
+Usuario nuevo,nuevo,0,0.5,0.25,popularidad (NO personalizada),False,6,260,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi,False
+Usuario nuevo,nuevo,0,0.5,0.25,popularidad (NO personalizada),False,7,110,Braveheart (1995),Action|Drama|War,False
+Usuario nuevo,nuevo,0,0.5,0.25,popularidad (NO personalizada),False,8,480,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller,False
+Usuario nuevo,nuevo,0,0.5,0.25,popularidad (NO personalizada),False,9,589,Terminator 2: Judgment Day (1991),Action|Sci-Fi,False
+Usuario nuevo,nuevo,0,0.5,0.25,popularidad (NO personalizada),False,10,2959,Fight Club (1999),Action|Crime|Drama|Thriller,False

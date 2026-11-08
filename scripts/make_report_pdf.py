@@ -1,4 +1,6 @@
-"""Genera docs/E05_entrega.pdf a partir de reports/.
+"""Genera un RESUMEN de 2 páginas (docs/E05_resumen.pdf) a partir de reports/.
+
+El informe formal de entrega es docs/E05_entrega.pdf (fuente editable: docs/E05_entrega.docx).
 
     python scripts/make_report_pdf.py https://github.com/USUARIO/REPO
 """
@@ -16,7 +18,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 R = str(ROOT / "reports")
 REPO = sys.argv[1] if len(sys.argv) > 1 else "https://github.com/[usuario]/inf8239-u03-e05-recomendador"
-OUT = sys.argv[2] if len(sys.argv) > 2 else str(ROOT / "docs" / "E05_entrega.pdf")
+OUT = sys.argv[2] if len(sys.argv) > 2 else str(ROOT / "docs" / "E05_resumen.pdf")
 import matplotlib  # DejaVu viene con matplotlib: fuente portable con ≤ ≥ × → ₂
 FONTS = Path(matplotlib.get_data_path()) / "fonts" / "ttf"
 pdfmetrics.registerFont(TTFont("DV", str(FONTS / "DejaVuSans.ttf")))

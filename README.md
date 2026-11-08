@@ -74,7 +74,7 @@ scripts/           download_data.py · audit_data.py · run_experiments.py · la
 tests/             test_data · test_content · test_matrix_factorization · test_metrics · test_pipeline
 notebooks/         E05_motor_recomendador.ipynb (ejecutado)
 reports/           tablas CSV, summary.json, figures/; v1_protocolo_inicial/ y v2a_regla_max_cobertura/ (trazabilidad)
-docs/              dataset_card.md · system_card.md · declaracion_ia.md · E05_entrega.pdf
+docs/              dataset_card.md · system_card.md · declaracion_ia.md · E05_entrega.pdf (+ .docx editable)
 data/raw/          vacío en Git (MovieLens se descarga aquí)
 ```
 

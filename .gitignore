@@ -1,0 +1,12 @@
+# Dataset: NO se redistribuye MovieLens (ver README y docs/dataset_card.md)
+data/raw/*
+!data/raw/.gitkeep
+*.zip
+# Entornos y temporales
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+reports/synthetic/
+.DS_Store

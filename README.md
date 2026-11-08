@@ -1,7 +1,7 @@
 # U03.E05 · Motor recomendador reproducible (MovieLens)
 
 **INF-8239 Ciencia de Datos II** · Unidad 03 · Algoritmos y características generativas
-Estudiante: _[Nombre y matrícula]_ · Docente: Edwin Ramón José Nolasco
+Estudiante: Melvin H. Rivas Genao · Matrícula 100279298 · Docente: Edwin Ramón José Nolasco
 
 Este repositorio consolida LAB08 y LAB09 en un solo producto:
 * baselines de popularidad (conteo y media bayesiana);

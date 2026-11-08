@@ -58,7 +58,7 @@ def table(rows, widths, bold_row=None, head_bg="#0b3d91"):
 story = []
 story.append(Paragraph("U03.E05 · Motor recomendador reproducible", H1))
 story.append(Paragraph("INF-8239 Ciencia de Datos II · Unidad 03 · Docente: Edwin Ramón José Nolasco · Universidad Autónoma de Santo Domingo", SM))
-story.append(Paragraph("Estudiante: <b>[Nombre y matrícula]</b> · Fecha: 8 de noviembre de 2026", SM))
+story.append(Paragraph("Estudiante: <b>Melvin H. Rivas Genao</b> · Matrícula 100279298 · Fecha: 8 de noviembre de 2026", SM))
 story.append(Spacer(1, 4))
 story.append(Paragraph(f'<b>Repositorio:</b> <link href="{REPO}"><font color="#0b3d91"><u>{REPO}</u></font></link>', B))
 story.append(Paragraph("Contiene el notebook ejecutado, <i>src</i>, <i>tests</i> (36 pruebas), <i>reports</i>, <i>requirements.txt</i>, <i>uv.lock</i>, README, Dataset Card, System Card y la declaración de IA. MovieLens <b>no</b> se redistribuye: se descarga con <i>scripts/download_data.py</i> y se verifica con SHA-256 <font size=6.5>696d65a3…c9e436</font>.", B))
@@ -139,6 +139,6 @@ story.append(Paragraph(
     "El estudiante revisó, ejecutó y responde por todo lo entregado (detalle en docs/declaracion_ia.md).", B))
 
 doc = SimpleDocTemplate(OUT, pagesize=letter, leftMargin=1.6*cm, rightMargin=1.6*cm, topMargin=1.3*cm, bottomMargin=1.2*cm,
-                        title="U03.E05 Motor recomendador reproducible", author="[Estudiante]")
+                        title="U03.E05 Motor recomendador reproducible", author="Melvin H. Rivas Genao")
 doc.build(story)
 print("ok", OUT)
